@@ -1,0 +1,8 @@
+name: pyos_yonasgeb
+channels:
+  - conda-forge
+dependencies:
+  - hatch
+  - python
+  - copier
+prefix: /Users/yonasgebremarie/miniforge3/envs/pyos_yonasgeb
